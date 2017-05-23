@@ -1,0 +1,12 @@
+Package: IBMHMM
+Type: Package
+Title: Score
+Version: 0.2
+Date: 2017-05-22
+Author: Anil
+Maintainer: Anil <anil_kumar469@yahoo.com>
+Description: Score customers
+License: Apache License 2.0
+LazyData: false
+Depends: R (>= 2.10)
+Imports: plyr
